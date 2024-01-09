@@ -6,7 +6,7 @@
 ## קישור לwiki:
 
 
-
+https://github.com/MHA-FinalProject/Arrival-destination/wiki
 
 ## :zap: שימוש במשחק
 Write about how to use this project.
