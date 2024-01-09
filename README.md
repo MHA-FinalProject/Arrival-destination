@@ -10,8 +10,6 @@
 - [About](#beginner-about)
 - [Usage](#zap-usage)
 - [Gallery](#camera-gallery)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
-- [License](#lock-license)
 
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
