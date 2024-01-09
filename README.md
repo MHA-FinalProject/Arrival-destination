@@ -9,7 +9,13 @@
 https://github.com/MHA-FinalProject/Arrival-destination/wiki
 
 ## :zap: שימוש במשחק
-Write about how to use this project.
+
+משחק המחשב מחובר למכשיר מגע המחובר לאצבעות השחקן כך שהשחקן ינוע באופן הבא:
+ההאצה-להרים את היד כלפי מעלה
+ימינה- זרת וקמיצה
+ישר - אמה
+שמאלה - אצבע ואגודל
+האטה- לקמץ את היד
 
 ##  :camera: תמונות
 ![WhatsApp Image 2024-01-09 at 19 49 22_412fb311](https://github.com/MHA-FinalProject/Arrival-destination/assets/118104946/5c5395ea-3f73-4632-b7a2-a79438e82804)
